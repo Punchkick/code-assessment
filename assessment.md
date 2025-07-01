@@ -13,7 +13,7 @@ Welcome to Eidra's Fullstack Work Test! This document contains the following thi
 Eidra is working on setting up a new and exciting restaurant service: Munchies! For all your restaurant needs!
 We have a design ready and want you to build a fullstack application with a proxy server and frontend interface so that our users can find the right restaurant for them.
 
-**Time Limit: 90 minutes maximum** ⏰
+**Time Limit: 2h maximum** ⏰
 
 **Focus:** Build a proxy server with in-memory caching and a frontend interface. You'll demonstrate project bootstrapping, technology selection, architecture decisions, and rapid development skills under realistic time constraints.
 
@@ -33,7 +33,7 @@ We have a design ready and want you to build a fullstack application with a prox
 
 **Your tasks are divided into 3 phases:**
 
-### Phase 1: Backend Development (30 minutes)
+### Phase 1: Backend Development (45 minutes)
 
 **Create a Node.js proxy server with:**
 1. **Project bootstrap** - Initialize Node.js project, install dependencies
@@ -54,7 +54,7 @@ We have a design ready and want you to build a fullstack application with a prox
 
 **Skills tested:** Frontend architecture, UI/UX decisions, proxy integration, filtering implementation
 
-### Phase 3: Integration & Polish (15 minutes)
+### Phase 3: Integration & Polish (30 minutes)
 
 **Complete the application:**
 1. **Connect frontend to proxy** - Wire up API calls with error handling  
@@ -120,6 +120,8 @@ We have a design ready and want you to build a fullstack application with a prox
 **Submission options:**
 - ZIP your complete project, or
 - Share via GitHub repository (preferred)
+
+Email the ZIP file, or the github link, to rafal.truszkowski@punchkick.com and conrad.mendelius@punchkick.com.
 
 ## Questions?
 
