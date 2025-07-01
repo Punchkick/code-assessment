@@ -17,11 +17,11 @@ We have a design ready and want you to build a fullstack application with a prox
 
 **Focus:** Build a proxy server with in-memory caching and a frontend interface. You'll demonstrate project bootstrapping, technology selection, architecture decisions, and rapid development skills under realistic time constraints.
 
-**Note:** We're not looking for a pixel-perfect solution. We want to see what you can accomplish in 90 minutes, where you make practical trade-offs if needed, and understand your thinking process and decision-making under time constraints. As a senior developer, demonstrating your ability to assess pros and cons while balancing multiple constraints (time, quality, functionality) is crucial.
+**Note:** We're not looking for a pixel-perfect solution. We want to see what you can accomplish in 2 hours, where you make practical trade-offs if needed, and understand your thinking process and decision-making under time constraints. As a senior developer, demonstrating your ability to assess pros and cons while balancing multiple constraints (time, quality, functionality) is crucial.
 
 ## Requirements Overview
 
-**Build from scratch:** Create a restaurant discovery application with proxy server and frontend interface in 90 minutes.
+**Build from scratch:** Create a restaurant discovery application with proxy server and frontend interface in 2 hours.
 
 **Technology Requirements:**
 - **In-memory cache:** For storing external API responses with TTL (5-10 minutes)
