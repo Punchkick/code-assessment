@@ -24,6 +24,7 @@ We have a design ready and want you to build a fullstack application with a prox
 **Build from scratch:** Create a restaurant discovery application with proxy server and frontend interface in 2 hours.
 
 **Technology Requirements:**
+- **Framework:** Next.js
 - **In-memory cache:** For storing external API responses with TTL (5-10 minutes)
 - **Architecture choice:** Build as separate apps OR single full-stack framework
 
@@ -121,11 +122,10 @@ We have a design ready and want you to build a fullstack application with a prox
 - ZIP your complete project, or
 - Share via GitHub repository (preferred)
 
-Email the ZIP file, or the github link, to rafal.truszkowski@punchkick.com and conrad.mendelius@punchkick.com.
+Email the ZIP file, or the github link, to neil.bertz@eidra.com.
 
 ## Questions?
 
-Don't hesitate to contact us if you have any questions! Please send an email to either:
+Don't hesitate to contact us if you have any questions! Please send an email to:
 
-- Rafal Truszkowski <rafal.truszkowski@punchkick.com>
-- Conrad Mendelius <conrad.mendelius@punchkick.com>
+- Neil Bertz <neil.bertz@eidra.com>
