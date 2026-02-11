@@ -122,7 +122,7 @@ We have a design ready and want you to build a fullstack application with a prox
 - ZIP your complete project, or
 - Share via GitHub repository (preferred)
 
-Email the ZIP file, or the github link, to neil.bertz@eidra.com.
+Email the ZIP file, or the GitHub link, to neil.bertz@eidra.com.
 
 ## Questions?
 
